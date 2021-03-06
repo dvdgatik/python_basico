@@ -8,7 +8,6 @@ def es_mayor_de_edad(edad):
 		return False 
 
 
-
 #extends unittest
 class PruebaDeCristalTest(unittest.TestCase):
 	#tests
